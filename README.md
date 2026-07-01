@@ -86,18 +86,25 @@ gps_navigation_system/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+## 📞 Contact
+
+- 📧 Email: your-tedrosweldegebriel465@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/tedros-dev369
+- 🌐 Portfolio: https://tedros-dev.netlify.app
+
 ## 👨‍💻 Developer
 
 **Tedros Weldegebriel**
 
-Computer Science Student
+Computer Science Student – Aksum University
 
-Aksum University
+- 🌐 Portfolio: https://tedros-dev.netlify.app
+- 💼 LinkedIn: https://linkedin.com/in/tedros-dev369
+- 💻 GitHub: https://github.com/tedrosweldegebriel465-eng
 
-Portfolio: https://tedros-dev.netlify.app
+## 🙏 Acknowledgments
 
-LinkedIn:
-https://linkedin.com/in/tedros-dev369
-
-GitHub:
-https://github.com/tedrosweldegebriel465-eng
+- Aksum University
+- Department of Computer Science
+- My project advisors
+- The open-source community

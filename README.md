@@ -86,3 +86,18 @@ gps_navigation_system/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+## 👨‍💻 Developer
+
+**Tedros Weldegebriel**
+
+Computer Science Student
+
+Aksum University
+
+Portfolio: https://tedros-dev.netlify.app
+
+LinkedIn:
+https://linkedin.com/in/tedros-dev369
+
+GitHub:
+https://github.com/tedrosweldegebriel465-eng
